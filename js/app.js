@@ -3,7 +3,7 @@ var redirigir = function () {
  };
 
  var cargarPagina = function () {
-   setTimeout(redirigir, 1000);
+   setTimeout(redirigir, 3000);
  };
 
  $(document).ready(cargarPagina);
