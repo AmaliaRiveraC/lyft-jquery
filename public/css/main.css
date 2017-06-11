@@ -1,0 +1,52 @@
+
+
+
+
+
+/* Estilo para Index */
+
+.main {
+  background-image: url("../assets/img/fondo-lyft.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+
+/* Estilo para home*/
+
+.home {
+  background-image: url("../assets/img/road.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.logo {
+  padding-top: 5%;
+}
+
+
+.home .img-responsive {
+  width: 20%;
+}
+
+.contenedor-botones {
+  margin-top: 70%;
+}
+
+.boton-registro {
+  border: 1px solid #FFF;
+  background-color: #d81b60;
+  height: 10vh;
+  color: #FFF;
+  font-size: 3rem;
+  width: 80%;
+  margin: 2%;
+}
+
+.boton-registro:hover {
+  background-color: transparent;
+}

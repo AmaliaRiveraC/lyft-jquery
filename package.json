@@ -1,0 +1,26 @@
+{
+  "name": "lyft-jquery",
+  "version": "1.0.0",
+  "description": "clone-signput-lyft-jquery\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[o\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaliaRiveraC/lyft-jquery.git"
+  },
+  "keywords": [
+    "jquery",
+    "lyft"
+  ],
+  "author": "Amalia Rivera <amaliariveracastillejos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaliaRiveraC/lyft-jquery/issues"
+  },
+  "homepage": "https://github.com/AmaliaRiveraC/lyft-jquery#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
